@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trihow-todo-app/static/css/main.7a4dbf2c.css",
+    "main.js": "/trihow-todo-app/static/js/main.b24fc57e.js",
+    "static/js/787.f9f7e608.chunk.js": "/trihow-todo-app/static/js/787.f9f7e608.chunk.js",
+    "index.html": "/trihow-todo-app/index.html",
+    "main.7a4dbf2c.css.map": "/trihow-todo-app/static/css/main.7a4dbf2c.css.map",
+    "main.b24fc57e.js.map": "/trihow-todo-app/static/js/main.b24fc57e.js.map",
+    "787.f9f7e608.chunk.js.map": "/trihow-todo-app/static/js/787.f9f7e608.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a4dbf2c.css",
+    "static/js/main.b24fc57e.js"
+  ]
+}

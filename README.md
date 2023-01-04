@@ -1,1 +1,0 @@
-Trihow Interview Aufgabe
